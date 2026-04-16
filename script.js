@@ -1,3 +1,6 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4068316839810579"
+     crossorigin="anonymous"></script>
+
 // =========================================
 // INVEST 2026 - Main JavaScript
 // =========================================
